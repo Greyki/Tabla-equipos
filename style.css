@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(59, 97, 97);
+}
+
+.contenedor {
+    background-color: rgb(53, 29, 29);
+    width: 930px;
+    height: 300px;
+    border-width: 20pxpx;
+    border-radius: 5px;
+    border-color: rgb(121, 38, 38);
+    margin-top: 10%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+h1, h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.equipo {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+
+.nombre {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.camp {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+}
